@@ -1,4 +1,4 @@
-UTILITIES FOR EMWM
+UTILITIES FOR FDWM
 ==================
 xmsm is simple session manager that provides session configuration and screen
 locking and also launches the window manager and the toolbox.
